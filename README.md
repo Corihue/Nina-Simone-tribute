@@ -16,3 +16,4 @@ Your img element should be centered within its parent element
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+![Nina Simone Tribute](https://github.com/user-attachments/assets/316d3b96-759e-4bff-b271-e10d2595d403)
