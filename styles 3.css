@@ -1,0 +1,49 @@
+* {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  
+  }
+  
+  #main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #img-div {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    
+  }
+  #title {
+    text-align: center;
+    font-size: 80px;
+    margin-top: 10px;
+    padding: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #caption{
+    text-align: center;
+    font-family: 'Trirong';
+    font-size: 35px;
+    font-weight: 300px;
+    padding: 5px;
+  }
+  #img-caption {
+    font-size: 20px;
+    font-style: italic;
+    padding: 20px;
+  }
+  #tribute-info{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration-line: underline;
+    margin-top: 28px;
+  }
+  #text{
+    font-size: 16px;
+    padding: 50px 50px;
+
+  }
