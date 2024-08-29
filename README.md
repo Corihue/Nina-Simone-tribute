@@ -17,3 +17,4 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
 ![Nina Simone Tribute](https://github.com/user-attachments/assets/316d3b96-759e-4bff-b271-e10d2595d403)
+![Nina Simone Tribute 2](https://github.com/user-attachments/assets/c96118a7-ff47-4ec6-8955-014bbac37a83)
